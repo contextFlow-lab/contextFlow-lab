@@ -1,29 +1,17 @@
-## 渡 / Xuecheng &nbsp;👋
+# 渡
 
-> *"渡" means to ferry across — I build things that carry ideas from messy thoughts to real, usable products.*
+*verb. to ferry across — to carry something from one shore to another.*
 
-**Frontend Developer · AI Product Builder · Beijing**
+That's what I do: carry ideas from messy thoughts to things people can actually use.
 
-I make clean interfaces, playful interactions, and AI-assisted products.
-What I really enjoy is the crossing itself — taking a vague idea and shipping it as something people can actually use.
+**`Departing from`** — vague ideas, sketches, half-formed thoughts
+**`Arriving at`** — clean interfaces, AI-assisted products, shipped prototypes
+**`Vessel`** — `TypeScript` `React` `Next.js` `Three.js` `Tailwind`
+**`Charting next`** — WebGL / Canvas · AI-native workflows
 
-```text
-focus      →  frontend engineering · AI-native workflows · personal projects
-building   →  AI-powered tools & frontend prototypes that solve real problems
-learning   →  WebGL / Canvas · Three.js · AI-native product workflows
-ask me     →  React · UI interaction · vibe coding · turning chaos into projects
-```
-
-### Tech
-
-`TypeScript` · `React` · `Next.js` · `Three.js` · `Tailwind CSS` · `Node.js`
-
-### Beyond code
-
-Football, travel, visual design, and life experiments —
-good products usually come from noticing small patterns in everyday life.
+Frontend Developer · AI Product Builder · Beijing
 
 ---
 
-<a href="mailto:2487128518@qq.com">📫 Email</a> &nbsp;·&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=contextFlow-lab&show_icons=true&hide_border=true&theme=graywhite&card_width=300" align="right" height="120" />
+*Off the water: football, travel, and noticing small patterns in everyday life.*
+📫 [2487128518@qq.com](mailto:2487128518@qq.com)
